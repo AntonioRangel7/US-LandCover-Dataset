@@ -67,7 +67,7 @@ This repository contains **Jupyter Notebooks** and **Python scripts** to guide u
 ### **1. Prerequisites**
 Install the required dependencies using:
 ```bash
-pip install geopandas rasterio matplotlib numpy tqdm h5py tensorflow
+requirements.yaml
 ```
 ### **2. Clone the Repository**
 ```bash
