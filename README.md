@@ -66,7 +66,45 @@ pip install geopandas rasterio matplotlib numpy tqdm h5py tensorflow
 git clone 
 ```
 ### **3. Download Satellite Data**
+Open Jupyter Notebook and run
 ``` bash
-#Open Jupyter Notebook and run
 Download_data_from_GEE.ipynb
 ```
+
+### **4. Process and Analyze the Data**
+Open Jupyter Notebook and run
+``` bash
+Analyze land cover changes.ipynb
+```
+### **5. Train and Evaluate Segmentation Models**
+Run the provided scripts to train the deep learning models
+``` bash
+python Train_model.py
+python eval_model.py
+```
+
+---
+
+### **Resultados y Créditos**
+
+## **Results & Outputs**
+This repository generates:
+- **Clipped raster images** of selected study areas.
+- **Land cover change statistics** (pixel counts per category).
+- **Histograms of Sentinel-2 band distributions**.
+- **Segmentation maps predicted by deep learning models**.
+- **Trained FCN and LR-ASPP models for land cover classification**.
+
+## **Contributors**
+- **Antonio Rangel**
+- **Juan Terven**
+
+## **Data Sources**
+- **Dynamic World (Google & World Resources Institute)**
+- **Sentinel-2 (European Space Agency - ESA)**
+- **U.S. Census Bureau - [Historical Apportionment Data Map](https://www.census.gov/library/visualizations/interactive/historical-apportionment-data-map.html)**
+
+
+## **Acknowledgments**
+This repository is part of a research project to facilitate land cover change analysis and AI-based segmentation for environmental monitoring.
+
