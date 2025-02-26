@@ -71,7 +71,7 @@ requirements.yaml
 ```
 ### **2. Clone the Repository**
 ```bash
-git clone 
+git clone https://github.com/AntonioRangel7/Tracking-U.S-Land-Cover-Changes--A-Dataset-of-Sentinel-2-Imagery-and-Dynamic-World-Labels.git
 ```
 ### **3. Download Satellite Data**
 Open Jupyter Notebook and run
