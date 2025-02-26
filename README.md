@@ -106,5 +106,6 @@ This repository generates:
 
 
 ## **Acknowledgments**
-This repository is part of a research project to facilitate land cover change analysis and AI-based segmentation for environmental monitoring.
+We thank the following [ medium publication](https://gmongaras.medium.com/yolox-explanation-mosaic-and-mixup-for-data-augmentation-3839465a3adf)** to serve for understanding the Mosaic Function which we take from the YOLO implementations.
+
 
