@@ -1,9 +1,17 @@
 # **Tracking U.S Land Cover Changes: A Dataset of Sentinel-2 Imagery and Dynamic World Labels**
 
+
 ## **Overview**
-This repository provides a comprehensive workflow for **analyzing land cover changes** across the United States from **2016 to 2024** using **Sentinel-2 imagery** and **Dynamic World annotations**. It includes tools for **downloading satellite images, preprocessing data, training deep learning models for segmentation, and evaluating land cover changes**.
+
+This repository provides a comprehensive workflow for **analyzing land cover changes** across the United States from **2016 to 2024** using **Sentinel-2 imagery** and **Dynamic World annotations**. It is designed to **facilitate the use of our custom dataset** created from **Sentinel-2 and Dynamic World data**, integrating satellite imagery with land cover labels to streamline analysis and deep learning applications.
+
+Additionally, this repository includes a **Jupyter Notebook** for downloading satellite images directly from **Google Earth Engine (GEE)**, allowing users to generate their own datasets if needed.
+
+It includes tools for **downloading satellite images, preprocessing data, training deep learning models for segmentation, and evaluating land cover changes**.
 
 This repository is designed to be **accessible to users without prior knowledge of artificial intelligence**, offering easy-to-use scripts and notebooks to facilitate land cover analysis.
+
+
 
 ## **Datasets Used**
 ### **1. Dynamic World (DW)**
