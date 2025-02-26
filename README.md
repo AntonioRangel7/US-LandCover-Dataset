@@ -93,8 +93,6 @@ python eval_model.py
 
 ---
 
-### **Resultados y Créditos**
-
 ## **Results & Outputs**
 This repository generates:
 - **Clipped raster images** of selected study areas.
