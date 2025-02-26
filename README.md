@@ -106,6 +106,6 @@ This repository generates:
 
 
 ## **Acknowledgments**
-We thank the following [ medium publication](https://gmongaras.medium.com/yolox-explanation-mosaic-and-mixup-for-data-augmentation-3839465a3adf)** to serve for understanding the Mosaic Function which we take from the YOLO implementations.
+We thank the following [ medium publication](https://gmongaras.medium.com/yolox-explanation-mosaic-and-mixup-for-data-augmentation-3839465a3adf) to serve for understanding the Mosaic Function which we take from the YOLO implementations.
 
 
