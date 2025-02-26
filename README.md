@@ -61,3 +61,12 @@ Install the required dependencies using:
 ```bash
 pip install geopandas rasterio matplotlib numpy tqdm h5py tensorflow
 ```
+### **2. Clone the Repository**
+```bash
+git clone 
+```
+### **3. Download Satellite Data**
+``` bash
+#Open Jupyter Notebook and run
+Download_data_from_GEE.ipynb
+```
